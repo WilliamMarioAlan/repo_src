@@ -21,3 +21,9 @@
 #define ERROR_CHECK(ret,num,message) {if(ret==num){perror(message);return -1;}}
 
 
+#include <arpa/inet.h>
+
+#include <sys/socket.h>
+#include <netinet/ip.h>
+
+#include <netdb.h>
