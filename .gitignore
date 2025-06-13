@@ -4,6 +4,8 @@
 backups/
 .idea/
 
+temp/
+
 .*
 !.gitignore
 !.gitattributes
