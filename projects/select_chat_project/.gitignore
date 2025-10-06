@@ -1,0 +1,22 @@
+# 编译文件夹
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# 编译器临时文件
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.pdb
+
+# IDE 文件
+.vscode/
+.idea/
+
+# 其他
+*.log
+
