@@ -36,7 +36,7 @@ def currency_converter():
         result = amount / exchange_rate
         print(f"\n兑换结果:")
         print(f"{amount} 人民币 = {result:.2f} 美元")
-        print(f"汇率: 1美元 = {exchange_rate}人民币")
+        print(f"汇率: 1美元 = {exch´ange_rate}人民币")
 
 
 # 主程序

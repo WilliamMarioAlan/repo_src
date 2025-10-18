@@ -18,6 +18,9 @@ int main(void)
 }
 
 void SystemClock_init(void) {
+	//set flash
+
+	
 	//1.enable HSE
 	RCC_HSEConfig(RCC_HSE_ON);
 	while(RCC_GetFlagStatus(RCC_FLAG_HSERDY) == RESET);
