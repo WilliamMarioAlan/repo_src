@@ -1,10 +1,15 @@
 *.sh
 .vscode/
-.DS_Store
-backups/
-.idea/
 
-temp/
+
+.DS_Store
+
+backups/
+
+
+
+.idea/
+.venv/
 
 .*
 !.gitignore
