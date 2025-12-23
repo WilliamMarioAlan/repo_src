@@ -1,1 +1,9 @@
-# repo_src
+# source repository
+
+# C language
+
+# C++
+
+# python 
+
+# deeplearning
